@@ -3,8 +3,6 @@
 </div>
 
 </br>
-<p align="center"> About Me (Portfolio)</p>
-<p align="center"> https://rickyshu.vercel.app/ </p>
 <p align="center"> Personal Blog </p>
 <p align="center"> https://dreamcode.tistory.com/ (공부 기록용): PW: 1234 (보호 컨텐츠)</p>
 <p align="center"> https://velog.io/@rickyshu (프로젝트 회고용)</p>
